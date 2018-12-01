@@ -15,6 +15,10 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="NextEditorTab" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
