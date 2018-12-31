@@ -1,6 +1,14 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="100" />
   <option name="SOFT_MARGINS" value="80,100" />
+  <JavaCodeStyleSettings>
+    <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
+  </JavaCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="collectImports" value="false" />
+  </ScalaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <indentOptions>
