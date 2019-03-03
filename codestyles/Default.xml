@@ -9,6 +9,9 @@
   <ScalaCodeStyleSettings>
     <option name="collectImports" value="false" />
   </ScalaCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <indentOptions>
