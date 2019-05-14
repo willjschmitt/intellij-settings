@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="templates" type="PLAIN_TEXT" />
       <mapping pattern="restore-job,yaml" type="PLAIN_TEXT" />
+      <mapping pattern="google-oauth2-secret" type="PLAIN_TEXT" />
       <mapping ext="dec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
