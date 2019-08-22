@@ -3,15 +3,15 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="database-drops" type="PLAIN_TEXT" />
-      <mapping pattern="google-oauth2-secret" type="PLAIN_TEXT" />
       <mapping pattern="templates" type="PLAIN_TEXT" />
       <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
       <mapping pattern="restore-job,yaml" type="PLAIN_TEXT" />
+      <mapping pattern="database-drops" type="PLAIN_TEXT" />
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
-      <mapping ext="bazel" type="PLAIN_TEXT" />
-      <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping pattern="google-oauth2-secret" type="PLAIN_TEXT" />
       <mapping ext="dec" type="PLAIN_TEXT" />
+      <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping ext="bazel" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
