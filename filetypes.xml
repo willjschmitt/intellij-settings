@@ -6,6 +6,7 @@
       <mapping pattern="templates" type="PLAIN_TEXT" />
       <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
       <mapping pattern="restore-job,yaml" type="PLAIN_TEXT" />
+      <mapping pattern="18-acknowledgements" type="PLAIN_TEXT" />
       <mapping pattern="database-drops" type="PLAIN_TEXT" />
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping pattern="google-oauth2-secret" type="PLAIN_TEXT" />
