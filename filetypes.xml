@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
