@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
-      <mapping pattern="great-lakes-ssh" type="PLAIN_TEXT" />
-      <mapping ext="gpg" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
