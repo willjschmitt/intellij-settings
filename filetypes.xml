@@ -4,7 +4,6 @@
       <mapping pattern=".bazelversion" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="bar" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
