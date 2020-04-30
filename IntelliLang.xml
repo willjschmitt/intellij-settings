@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>MockResponse.setBody (okhttp3.mockwebserver)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setBody").withParameters("java.lang.String").definedInClass("okhttp3.mockwebserver.MockResponse"))]]></place>
+    </injection>
+  </component>
+</application>
