@@ -2,6 +2,7 @@
   <component name="ParameterNameHintsSettings">
     <disabledLanguages>
       <language id="JAVA" />
+      <language id="TypeScript" />
     </disabledLanguages>
   </component>
 </application>
