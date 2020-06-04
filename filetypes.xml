@@ -8,9 +8,6 @@
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="bar" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
-      <removed_mapping ext="proto" type="protobuf" />
-      <removed_mapping ext="proto" type="protobuf" />
     </extensionMap>
   </component>
 </application>
