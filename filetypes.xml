@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="ebean_agent" type="BUILD" />
       <mapping pattern=".bazelignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".bazelversion" type="PLAIN_TEXT" />
