@@ -1,12 +1,4 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
-  <action id="$Redo">
-    <keyboard-shortcut first-keystroke="shift ctrl z" />
-    <keyboard-shortcut first-keystroke="shift alt back_space" />
-    <keyboard-shortcut first-keystroke="ctrl y" />
-  </action>
-  <action id="Blaze.IncrementalSyncProject">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
   <action id="ChangesView.Diff" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -14,25 +6,16 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
-  <action id="Console.TableResult.DeleteRows">
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
-  <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="ctrl y" />
-  </action>
   <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
 </keymap>
