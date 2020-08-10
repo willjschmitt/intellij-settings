@@ -8,5 +8,9 @@
       <display-name>MockResponse.setBody (okhttp3.mockwebserver)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setBody").withParameters("java.lang.String").definedInClass("okhttp3.mockwebserver.MockResponse"))]]></place>
     </injection>
+    <injection language="GraphQL" injector-id="java">
+      <display-name>SchemaParserBuilder.schemaString (graphql.kickstart.tools)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("schemaString").withParameters("java.lang.String").definedInClass("graphql.kickstart.tools.SchemaParserBuilder"))]]></place>
+    </injection>
   </component>
 </application>
