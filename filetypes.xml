@@ -9,6 +9,7 @@
       <mapping pattern="requirements.txt" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="bar" type="PLAIN_TEXT" />
+      <mapping ext="dec" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
