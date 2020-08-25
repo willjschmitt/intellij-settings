@@ -11,6 +11,7 @@
       <mapping pattern="bar" type="PLAIN_TEXT" />
       <mapping ext="dec" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
