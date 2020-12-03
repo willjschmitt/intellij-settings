@@ -1,15 +1,22 @@
-<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="Blaze.IncrementalSyncProject">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.DeleteRows">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Redo">
@@ -21,28 +28,11 @@
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="GotoTest" />
-  <action id="Images.ShowThumbnails" />
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="shift alt right" />
-  </action>
-  <action id="NextEditorTab" />
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="RunDashboard.ShowConfigurations" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SendEOF" />
-  <action id="UpdateRunningApplication" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
-  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
